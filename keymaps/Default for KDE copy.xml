@@ -5,4 +5,8 @@
     <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="JumpToLastWindow" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
 </keymap>
