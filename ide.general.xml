@@ -31,5 +31,6 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
+    <entry key="rdclient.asyncActions" value="false" />
   </component>
 </application>
