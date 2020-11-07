@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'SteamWorld'" />
-    <option name="defaultScopeName" value="Project 'SteamWorld'" />
-    <option name="SEARCH_SCOPE" value="Project 'SteamWorld'" />
+    <option name="customScope" value="SteamWorld Source" />
+    <option name="defaultScopeName" value="SteamWorld Source" />
+    <option name="SEARCH_SCOPE" value="SteamWorld Source" />
   </component>
 </application>
