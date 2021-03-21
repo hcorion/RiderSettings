@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Source\SteamWorld\Public\Abilities\SteamGameplayAbility.h'" />
-    <option name="defaultScopeName" value="File '...\Source\SteamWorld\Public\Abilities\SteamGameplayAbility.h'" />
-    <option name="SEARCH_SCOPE" value="File '...\Source\SteamWorld\Public\Abilities\SteamGameplayAbility.h'" />
+    <option name="customScope" value="SteamWorld Source" />
+    <option name="defaultScopeName" value="SteamWorld Source" />
+    <option name="SEARCH_SCOPE" value="SteamWorld Source" />
   </component>
 </application>
