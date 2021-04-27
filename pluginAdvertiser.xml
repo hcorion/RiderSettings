@@ -87,6 +87,11 @@
                       <FeaturePluginData displayName="Attach to Unity Editor" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="Uproject">
+                    <value>
+                      <FeaturePluginData displayName="Uproject" pluginName="Support for C++ Language" pluginId="com.jetbrains.rider-cpp" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="UtPlSqlConfigurationType">
                     <value>
                       <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
@@ -110,6 +115,11 @@
                   <entry key="XamarinMacProject">
                     <value>
                       <FeaturePluginData displayName="Xamarin.Mac" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="docker-deploy">
+                    <value>
+                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
                 </map>
