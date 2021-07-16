@@ -17,11 +17,6 @@
                       <FeaturePluginData displayName="Mono Remote" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="CppProject">
-                    <value>
-                      <FeaturePluginData displayName="C++ Project" pluginName="Support for C++ Language" pluginId="com.jetbrains.rider-cpp" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="DatabaseScript">
                     <value>
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
@@ -85,11 +80,6 @@
                   <entry key="UNITY_DEBUG_RUN_CONFIGURATION">
                     <value>
                       <FeaturePluginData displayName="Attach to Unity Editor" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="Uproject">
-                    <value>
-                      <FeaturePluginData displayName="Uproject" pluginName="Support for C++ Language" pluginId="com.jetbrains.rider-cpp" bundled="true" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
